@@ -24,10 +24,21 @@ font-family: 'Raleway', sans-serif;
 	margin-top: 20px;
 	margin-color: blue;
 }
-.pa{
-	border-color: blue;
+.color{
+ 
+    margin-top: 50px solid lightgreen;
+    border-right: 50px solid lightgreen;
+    border-bottom: 50px solid lightgreen;
+    border-left: 100px solid lightgreen;
+    border-right: 100px solid lightgreen;
 }
 
-#7FFF00
+.texto{
+	font-family: 'cursive';
+	font-size:10px;
+	text-align: center;
+    
+}
+
 
 
