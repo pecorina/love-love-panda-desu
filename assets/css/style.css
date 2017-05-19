@@ -12,10 +12,22 @@ font-family: 'Raleway', sans-serif;
 	box-sizing: border-box;
 	font-family: 'Helvetica';
 	font-size: 20px;
+	background:#ABE188;
+}
+#cabecera{
+	background-color: #ABE188;
+	padding: 50px 40px;
+	color: white;
 }
 #holapanda{
 	background: url('../img/uno.jpg');
-	background-size: cover;
-	background-position: center;
-	padding: 50px 0;
+	margin-top: 20px;
+	margin-color: blue;
 }
+.pa{
+	border-color: blue;
+}
+
+#7FFF00
+
+
