@@ -21,24 +21,27 @@ font-family: 'Raleway', sans-serif;
 }
 #holapanda{
 	background: url('../img/uno.jpg');
-	margin-top: 20px;
-	margin-color: blue;
+	margin-top:50px;
+	margin-bottom: 50px;
 }
 .color{
  
-    margin-top: 50px solid lightgreen;
-    border-right: 50px solid lightgreen;
-    border-bottom: 50px solid lightgreen;
-    border-left: 100px solid lightgreen;
-    border-right: 100px solid lightgreen;
+   /*margin-top: 50px solid lightgreen;*/
+    border-top: 50%;
+    border-bottom: 50%;
+    border-left: 100%;
+    border-right: 100%;
 }
 
 .texto{
-	font-family: 'cursive';
+	font-family: 'verdana';
 	font-size:10px;
 	text-align: center;
     
 }
-
+#holapanda2{
+	background: url('../img/dos.jpg');
+	margin-top: 20px;
+}
 
 
