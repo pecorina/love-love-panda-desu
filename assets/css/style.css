@@ -6,3 +6,16 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Helvetica';
+	font-size: 20px;
+}
+#holapanda{
+	background: url('../img/uno.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
